@@ -1,0 +1,61 @@
+LocalID;Nombre;TipoLocal;TipoHabitacion;Piso;AforoMaximo;SensorTemperaturaID;SensorAforoID
+1;Recepción;Recepción;;0;100;1;1
+2;Eleven;Bar;;0;30;2;2
+3;Momentos;Bar;;0;20;3;3
+4;4 Vents;Restaurante;;0;30;4;4
+5;Son Fuster;Gimnasio;;0;25;5;5
+6;Cal Dimoni;Restaurante;;0;50;6;6
+7;Jaracanda;Restaurante;;5;100;7;7
+8;Pels;Peluquería;;0;6;8;8
+9;Paradiso;Bar;;5;50;9;9
+10;Angel's;Discoteca;;0;150;10;10
+11;101;Habitación;Standard Individual;1;1;11;
+12;102;Habitación;Familiar;1;4;12;
+13;103;Habitación;Triple;1;3;13;
+14;104;Habitación;Standard;1;2;14;
+15;105;Habitación;Familiar;1;4;15;
+16;106;Habitación;Standard Individual;1;1;16;
+17;107;Habitación;Familiar;1;4;17;
+18;108;Habitación;Triple;1;3;18;
+19;109;Habitación;Standard;1;2;19;
+20;110;Habitación;Familiar;1;4;20;
+21;201;Habitación;Standard Individual;2;1;21;
+22;202;Habitación;Familiar;2;4;22;
+23;203;Habitación;Triple;2;3;23;
+24;204;Habitación;Standard;2;2;24;
+25;205;Habitación;Familiar;2;4;25;
+26;206;Habitación;Standard Individual;2;1;26;
+27;207;Habitación;Familiar;2;4;27;
+28;208;Habitación;Triple;2;3;28;
+29;209;Habitación;Standard;2;2;29;
+30;210;Habitación;Familiar;2;4;30;
+31;301;Habitación;Standard Individual;3;1;31;
+32;302;Habitación;Familiar;3;4;32;
+33;303;Habitación;Triple;3;3;33;
+34;304;Habitación;Standard;3;2;34;
+35;305;Habitación;Familiar;3;4;35;
+36;306;Habitación;Standard Individual;3;1;36;
+37;307;Habitación;Familiar;3;4;37;
+38;308;Habitación;Triple;3;3;38;
+39;309;Habitación;Standard;3;2;39;
+40;310;Habitación;Familiar;3;4;40;
+41;401;Habitación;Standard Individual;4;1;41;
+42;402;Habitación;Familiar;4;4;42;
+43;403;Habitación;Triple;4;3;43;
+44;404;Habitación;Standard;4;2;44;
+45;405;Habitación;Familiar;4;4;45;
+46;406;Habitación;Standard Individual;4;1;46;
+47;407;Habitación;Familiar;4;4;47;
+48;408;Habitación;Triple;4;3;48;
+49;409;Habitación;Standard;4;2;49;
+50;410;Habitación;Familiar;5;4;50;
+51;501;Habitación;Premium;5;2;51;
+52;502;Habitación;Premium;5;2;52;
+53;503;Habitación;Premium;5;2;53;
+54;504;Habitación;Premium;5;2;54;
+55;505;Habitación;Premium Individual;5;1;55;
+56;506;Habitación;Premium Individual;5;1;56;
+57;507;Habitación;Panorámica;5;2;57;
+58;508;Habitación;Panorámica;5;2;58;
+59;509;Habitación;Panorámica;5;2;59;
+60;510;Habitación;Panorámica;5;2;60;
